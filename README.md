@@ -5,5 +5,8 @@ Screenshot of the Graphs plotted:
 
 You can use any IDE (preferabley VS Code) for running.
 - clone the repo.
-- install the dependencies.
+- run `yarn install`.
+- run `yarn add echarts echarts-for-react`.
 - run `yarn start`.
+
+Both the maps should be rendering now.
